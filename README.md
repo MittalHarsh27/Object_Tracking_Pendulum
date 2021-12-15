@@ -40,6 +40,6 @@ To deploy this project run-
 1. You can change the video according to your choice in order to run the code for any video in which you want to track oscillations.
 
 ## Some Sample Run file -
-![MATLAB App 06-09-2021 18_19_37](https://user-images.githubusercontent.com/89993821/132220275-8b15d3fe-783c-4533-a09b-d3f88195d126.png)
+![MATLAB App 06-09-2021 18_19_37](https://github.com/MittalHarsh27/Object_Tracking_Pendulum/blob/main/ss1.png)
 
 
