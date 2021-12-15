@@ -32,7 +32,7 @@ A video of the object oscillating is being feed to the programm, then the user c
 
 To deploy this project run-
 
-  [Pendulum_tracking.m](https://github.com/MittalHarsh27/Covid_Data_Representation/blob/main/Covid_data_represnetation.exe)
+  [Pendulum_tracking.m](https://github.com/MittalHarsh27/Object_Tracking_Pendulum/blob/main/Pendulum_tracking.m)
 
 
 
