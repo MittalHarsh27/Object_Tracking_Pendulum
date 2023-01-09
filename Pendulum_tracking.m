@@ -1,4 +1,7 @@
+% We are learning Git and Github using this project
+
 %Reading the video
+
 Video_Read=VideoReader('slowpendu.mp4'); % change the name of the file for which you want to run the code.
 t=Video_Read.duration;
 FR=Video_Read.FrameRate;
